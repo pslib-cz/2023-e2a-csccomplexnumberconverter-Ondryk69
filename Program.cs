@@ -1,8 +1,8 @@
 ﻿
 /*
 * Nazev: ComplexNumberConverter
-* Autor: nn
-* Datum: xx.xx.20xx.
+* Autor: Ondrej Franek
+* Datum: 21.2.2024
 * Popis:
   Program převede komplexní číslo z agebraického tvaru z = (x + jy) na goniometrický tvar.
 */
